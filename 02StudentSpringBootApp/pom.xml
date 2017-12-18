@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mistertandon.app</groupId>
-	<artifactId>StudentSpringBootApp</artifactId>
+	<artifactId>02StudentSpringBootApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
