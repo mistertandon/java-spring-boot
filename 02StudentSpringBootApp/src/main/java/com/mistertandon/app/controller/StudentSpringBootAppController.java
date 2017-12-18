@@ -9,7 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class StudentSpringBootAppController {
 
 	@GetMapping(value = "/")
-	@RequestMapping(value = "/", method = RequestMethod.GET)
+	/**
+	 * Alternative of "@GetMapping"
+	 * 
+	 * @RequestMapping(value = "/", method = RequestMethod.GET)
+	 */
 	public String hello() {
 
 		return "Hello World!!!!";
