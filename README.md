@@ -8,3 +8,5 @@
  - Graph
    - [Kruskal\'s Algorithm](a00603_graph_kruskal_algorithm.ipynb)
      - [Video Tutorial](https://www.youtube.com/watch?v=EjVHtpWkIho)
+   - [Disjoint Sets using union by rank and path compression Graph Algorithm](a00604_disjoint_sets_using_union_by_rank_and_path_compression_graph_algorithm.ipynb)
+     - [Video Tutorial](https://www.youtube.com/watch?v=ID00PMy0-vE)
